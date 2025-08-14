@@ -75,7 +75,7 @@ def parse_text(text):
 
 def main():
     """Main function to run the script."""
-    with open('extracted_text.txt', 'r', encoding='utf-8') as f:
+    with open('source_documents/extracted_text.txt', 'r', encoding='utf-8') as f:
         text = f.read()
 
     questions = parse_text(text)
@@ -109,9 +109,9 @@ cluster: "{cluster}"
 *Coming soon...*
 """
 
-        file_path = f"questions/Q{q_num}.md"
+        file_path = f"docs/questions/Q{q_num}.md"
         with open(file_path, "w", encoding='utf-8') as f:
-            f.write(front_matter.strip() + '\\n\\n' + content.strip())
+            f.write(front_matter.strip() + '\n\n' + content.strip())
         print(f"Populated {file_path}")
 
 if __name__ == "__main__":
