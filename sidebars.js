@@ -113,9 +113,8 @@ const sidebars = {
         'questions/Q52',
       ],
     ],
+    ],
     },
-    'all-in-one',
-  ],
-};
+    'all-in-one',;
 
 export default sidebars;
