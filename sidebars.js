@@ -112,7 +112,7 @@ const sidebars = {
         'questions/Q51',
         'questions/Q52',
       ],
-    },
+    ],
     },
     'all-in-one',
   ],
