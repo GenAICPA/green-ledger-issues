@@ -14,8 +14,23 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // We create a custom sidebar for the main navigation
-  mainSidebar: [
+    mainSidebar: [
     'intro',
+    'how-to-contribute',
+    'glossary',
+    {
+      type: 'category',
+      label: 'By Perspective',
+      link: {
+        type: 'doc',
+        id: 'perspectives/index',
+      },
+      items: [
+        'perspectives/eu-regulator',
+        'perspectives/us-software-developer',
+        'perspectives/global-sustainability-advocate',
+      ],
+    },
     {
       type: 'category',
       label: 'By Cluster',
@@ -95,7 +110,9 @@ const sidebars = {
         'questions/Q49',
         'questions/Q50',
         'questions/Q51',
+        'questions/Q52',
       ],
+    },
     },
     'all-in-one',
   ],
