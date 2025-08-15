@@ -14,7 +14,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // We create a custom sidebar for the main navigation
-    mainSidebar: [
+  mainSidebar: [
     'intro',
     'how-to-contribute',
     'glossary',
@@ -112,9 +112,9 @@ const sidebars = {
         'questions/Q51',
         'questions/Q52',
       ],
-    ],
-    ],
     },
-    'all-in-one',;
+    'all-in-one',
+  ],
+};
 
 export default sidebars;
