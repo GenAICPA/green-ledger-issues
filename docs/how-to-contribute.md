@@ -19,7 +19,7 @@ If you don't have a GitHub account, you'll need to create one. It's free and onl
 
 Navigate to the question or page you want to edit. As you're reading, you'll see an "Edit this page" link at the bottom. Click it!
 
-![Edit this page link](/img/edit-this-page.png)  *<-- (We'll need to add an image here)*
+![Edit this page link](/img/edit-this-page.png)  {/* We'll need to add an image here */}
 
 ### 3. Propose Your Change
 
@@ -27,7 +27,7 @@ Once you click the link, you'll be taken to the GitHub editor. It's just like a 
 
 When you're done, scroll to the bottom of the page. You'll see a box that says "Propose changes". Write a brief, friendly description of your change (e.g., "Added a clarification to Q5" or "Fixed a typo").
 
-![Propose changes](/img/propose-changes.png) *<-- (We'll need to add an image here)*
+![Propose changes](/img/propose-changes.png) {/* We'll need to add an image here */}
 
 Then, click the green "Propose changes" button.
 
