@@ -19,4 +19,4 @@ Here are some of the questions that are most relevant to your perspective:
 *   [Q13: How can a Green Ledger system be designed to be accountable to a wide range of stakeholders?](/docs/questions/Q13)
 *   [Q14: How can a Green Ledger system be designed to be transparent and accessible to the public?](/docs/questions/Q14)
 *   [Q15: How can a Green Ledger system be designed to be resilient to political and economic pressures?](/docs/questions/Q15)
-*   [Q20: How can a Green Ledger system be designed to adapt to changing scientific and social understandings of sustainability?](/docs/gquestions/Q20)
+*   [Q20: How can a Green Ledger system be designed to adapt to changing scientific and social understandings of sustainability?](/docs/questions/Q20)
