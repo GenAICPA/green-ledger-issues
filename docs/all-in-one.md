@@ -1,3 +1,5 @@
+This file aggregates content for convenience and may lag behind individual question files.
+
 # All-in-One: All Green Ledger Questions
 
 This page contains all 51 questions and their answers in a single document for a continuous reading experience.

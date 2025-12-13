@@ -16,6 +16,11 @@ const sidebars = {
   // We create a custom sidebar for the main navigation
   mainSidebar: [
     'intro',
+    {
+      type: 'doc',
+      id: 'icrs-overview',
+      label: 'What is ICSR?',
+    },
     'how-to-contribute',
     'glossary',
     {
@@ -111,9 +116,26 @@ const sidebars = {
         'questions/Q50',
         'questions/Q51',
         'questions/Q52',
+        'questions/q53-uncertainty-as-data',
+        'questions/q54-methodology-changes',
+        'questions/q55-third-party-provenance',
+        'questions/q56-dual-materiality-versioning',
+        'questions/q57-icsr-vs-icfr',
+        'questions/q58-boundary-definitions',
+        'questions/q59-scenario-analysis-structure',
+        'questions/q60-data-quality-metadata',
+        'questions/q61-corrections-restatements',
+        'questions/q62-management-judgment',
       ],
     },
     'all-in-one',
+    {
+      type: 'category',
+      label: 'Phase 2 – ICSR Implementation',
+      items: [
+        'phase-2-icsr/README',
+      ],
+    },
   ],
 };
 
