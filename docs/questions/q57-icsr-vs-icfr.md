@@ -1,0 +1,19 @@
+---
+title: How should ICSR controls align with ICFR concepts without forcing false equivalence?
+tags: [COSO-CE, COSO-CA]
+---
+
+### The Question
+
+How can internal controls over sustainability reporting align with ICFR concepts while recognizing fundamental differences in data types, uncertainty, and time horizons?
+
+### Why this matters
+
+Auditors and preparers frequently analogize sustainability reporting to financial reporting. Overreliance on ICFR concepts may obscure sustainability-specific risks and control needs.
+
+### Catalyst sources
+
+- COSO ICSR guidance
+- COSO Internal Control—Integrated Framework (2013)
+- AICPA Sustainability Assurance Guide
+- PCAOB AS 1000 / AS 2201
